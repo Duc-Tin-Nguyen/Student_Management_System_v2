@@ -40,18 +40,18 @@ The Student Management System is a web application designed to manage student da
 - Navigate through the application to manage student data.
 
 ## File Structure
-src/
-├── Connection.php # Database connection file
-├── welcome.php # Main dashboard for logged-in users
-├── login.php # User login page
-├── register.php # User registration page
-├── population.php # View student population data
-├── add_student.php # Add new student details
-├── edit_student.php # Edit existing student details
-├── student_grade.php # View student grades
-├── course_grade.php # View course grades
-├── update_course_grade.php # Update course grades
-├── delete.php # Delete student records
-└── add_course.php # Add new course details
+- src/
+  - Connection.php # Database connection file
+  - welcome.php # Main dashboard for logged-in users
+  - login.php # User login page
+  - register.php # User registration page
+  - population.php # View student population data
+  - add_student.php # Add new student details
+  - edit_student.php # Edit existing student details
+  - student_grade.php # View student grades
+  - course_grade.php # View course grades
+  - update_course_grade.php # Update course grades
+  - delete.php # Delete student records
+  - add_course.php # Add new course details
 
 
